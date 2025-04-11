@@ -9,9 +9,9 @@ const inter = Inter({ subsets: ["latin"] })
 // Define the Farcaster Frame metadata
 const frameMetadata = {
   version: "next",
-  imageUrl: "https://farcaster-builders.vercel.app/growth.gif",
+  imageUrl: "https://farcaster-builders.vercel.app/images/growth.gif",
   button: {
-    title: "Open App",
+    title: "Why Build on Farcaster?",
     action: {
       type: "launch_frame",
       url: "https://farcaster-builders.vercel.app",
