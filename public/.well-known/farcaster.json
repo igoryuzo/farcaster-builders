@@ -1,0 +1,10 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Hello World Mini App",
+    "imageUrl": "https://farcaster-builders.vercel.app/growth.gif",
+    "buttonTitle": "Open App",
+    "splashImageUrl": "https://farcaster-builders.vercel.app/images/splash.png",
+    "splashBackgroundColor": "#855dcd"
+  }
+} 
